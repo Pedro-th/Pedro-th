@@ -8,19 +8,19 @@ Bem-vindo ao meu perfil! Aqui você encontrará os projetos que venho desenvolve
 
 ## 🎓 Formação Acadêmica
 
-* **Faculdade:** UFPA
+* **Faculdade:** UFPA (Universidade Federal do Pará)
 * **Curso:** Ciência da Computação
-
 
 ---
 
 ## 🛠️ Tecnologias e Linguagens
 
-Meu foco atual está no desenvolvimento com linguagens robustas e no domínio completo do ciclo de vida de código.
+Meu foco atual está no desenvolvimento com linguagens robustas, manipulação de dados e no domínio do ciclo de vida de código.
 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| **Banco de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 | **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Ferramentas** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
@@ -44,4 +44,4 @@ Sinta-se à vontade para entrar em contato para trocarmos ideias sobre tecnologi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropedrinhothiago410@gmail.com)
 
 ---
-*README atualizado em Janeiro de 2026.*
+*README atualizado em Fevereiro de 2026.*
