@@ -30,14 +30,14 @@ Meu foco atual está no desenvolvimento com linguagens robustas, manipulação d
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-th&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-th&theme=dracula"/>
 </div>
 
-### 🛠️ Principais Linguagens
+### 💻 Tecnologias em Foco
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-th&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,sqlserver,git,github,vscode,linux&theme=dark" />
 </div>
-
 ---
 
 ## 🤝 Vamos nos conectar?
